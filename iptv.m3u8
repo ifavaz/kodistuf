@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="563a970aa1a1f7fe7c9daad7" tvg-chno="672" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="USA",Pluto TV Science
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=672&deviceId=563a970aa1a1f7fe7c9daad7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="5877ac8cb791f4eb4a140d81" tvg-chno="601" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="COOKING",Food TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="59c01b1953680139c6ae9d4d" tvg-chno="678" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="USA",Pluto TV Travel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=678&deviceId=59c01b1953680139c6ae9d4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",255 Big Life TV on Stirr
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
